@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { city: 'Beijing', year: '2008' },
         { city: 'London', year: '2012' },
         { city: 'Rio', year: '2016' },
-        { city: 'Tokyo', year: '2020' }
+        { city: 'Tokyo', year: '2021' }
     ];
 
     let gamesPlayed = 0;
